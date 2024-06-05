@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 05/06/2024
+
 Empresa: Abstergo Industries 
+
 Responsável: Rafael Kamada
 
 ## Introdução
@@ -32,8 +34,11 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 ## Anexos
 
 [O que é Cloud Storage](https://aws.amazon.com/pt/what-is/cloud-storage/)
+
 [Sobre EC2](https://docs.aws.amazon.com/ec2/)
+
 [Sobre S3](https://docs.aws.amazon.com/s3/)
+
 
 Assinatura do Responsável pelo Projeto:
 
